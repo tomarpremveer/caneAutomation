@@ -1,0 +1,19 @@
+{
+  "name": "caneautomation",
+  "version": "1.0.0",
+  "description": "Automatically viewing tickets from cane UP website by entering the village code and grower code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomarpremveer/caneAutomation.git"
+  },
+  "author": "Premveer tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomarpremveer/caneAutomation/issues"
+  },
+  "homepage": "https://github.com/tomarpremveer/caneAutomation#readme"
+}
